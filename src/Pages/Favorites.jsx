@@ -1,4 +1,4 @@
-import "../CSS/Favorites.css";
+import "../CSS/favorites.css";
 import { useMovieContext } from "../Contexts/MovieContext";
 import MovieCard from "../components/MovieCard";
 
