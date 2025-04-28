@@ -1,3 +1,0 @@
-[build]
-  functions = "netlify/functions"   # Path to your functions folder
-  publish = "dist"  # or "build" depending on what framework you're using
